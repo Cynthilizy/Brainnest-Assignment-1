@@ -1,0 +1,67 @@
+.headerOne{
+    text-align: center;
+    color: red;
+}
+.bodyOne{
+    background-image: url("https://images.freeimages.com/images/large-previews/591/evening-1337119.jpg");
+}
+.imgOne{
+    width: fit-content;
+}
+.bodyTwo{
+    background-image: url("https://i.ytimg.com/vi/RPqMEX3dGtg/maxresdefault.jpg");
+}
+div.yellow{
+    color: yellow;
+}
+.container{
+    display: flex;
+}
+.padd{
+    padding: 10px;
+    font-size: large;
+}
+.describe{
+    color: yellowgreen;
+    font-size: larger;
+    padding: 10px;
+    margin: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bodyThree{
+background-image: url("https://th.bing.com/th/id/R.baa4f8ef97810cf46799a6b1e4aed02c?rik=AfTGnPletbT9jQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fntYEFqo.jpg&ehk=YoGZa1LmdltRG4BJ5DfnuyvBO8Brsu1ummTkbnve%2bwk%3d&risl=&pid=ImgRaw&r=0");
+}
+.headerThree{
+color: yellow;
+}
+.last{
+display: flex;
+}
+.imgThree{
+width: 50%;
+height: auto;
+margin-left: 300px;
+border-radius: 50px;
+}
+.bodyFour{
+    background-image: url("https://1.bp.blogspot.com/-i1go6-xXHFY/UbKY3aeKbAI/AAAAAAAAVkk/nI1pZeWHy-Y/s1600/Snooker+Wallpapers11.jpg");
+}
+.hob{
+    padding-top: 20px;
+    color: deepskyblue;
+    font-size: larger;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bot{
+    padding: 10px;
+    background-color: deeppink;
+    margin: 30px;
+}
+.headerFour{
+    text-align: center;
+    color: deeppink;
+    font-style: italic;
+}
